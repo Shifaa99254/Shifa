@@ -1,0 +1,2 @@
+The task of predicting laptop prices has been identified as the issue. The objective is to forecast the cost of a new laptop based on its characteristics given a dataset that includes features like Company, Product, TypeName, Inches, ScreenResolution, CPU information, RAM, Memory, GPU details, Operating System, Weight, and their related Price (target value).
+![image](https://github.com/user-attachments/assets/dce18307-ee6d-4e60-9092-1e63d1e7c996)
